@@ -18,6 +18,12 @@ Documents are available in:
 - English (`*.md`)
 - Traditional Chinese (`*.zh.md`)
 
+## Links
+
+- **Campaign Announcement Video**: https://youtu.be/G32C_RxGQlQ
+- **Facebook (個人)**: https://www.facebook.com/profile.php?id=100012905504787
+- **Facebook 選舉群組**: https://www.facebook.com/groups/1266224774451573
+
 ## Author
 
 **SIU Tak-Leung** (蕭德良)
