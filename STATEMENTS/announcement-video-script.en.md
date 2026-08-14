@@ -30,7 +30,7 @@ The main reason is that Hong Kong's governing team is staffed by a bunch of inco
 
 In recent years we can see how officials nurtured during British rule govern by saying "I don't know", "I can't see it", "I don't remember", "I believe so", and "it's not my problem". This trend is worldwide — as I said in the previous election, dumbing down makes people easier to govern, so education everywhere tends toward dumbing down. Today's Hong Kong has perfectly absorbed all the bad habits left over from British rule. You see the world split into two sides, but whichever side you stand on, it pushes society toward war and makes the poor poorer. Why is this so? Because this is exactly the product of the dumbing-down era: pitting people against each other keeps the regime stable, doesn't challenge the rulers' wisdom, but it also manufactures social conflict.
 
-During the British colonial period, Hong Kong was given an education system that even the British themselves do not use — rote-learning education, known locally as 填鴨教育 ("duck-stuffing education"). Rote-learning education only emphasises knowledge and neglects virtue and wisdom, turning Hong Kong people into puppets who cannot tell right from wrong and only know how to follow orders. I propose three main culture-and-education shifts:
+During the British colonial period, Hong Kong was given an education system that even the British themselves do not use — teaching-to-the-test education (填鴨教育, "duck-stuffing education" — forcing knowledge into students without digestion). Teaching-to-the-test education only emphasises knowledge and neglects virtue and wisdom, turning Hong Kong people into puppets who cannot tell right from wrong and only know how to follow orders. I propose three main culture-and-education shifts:
 
 > *Translator's note: 填鴨 literally means "stuffing the duck" and is the standard Hong Kong/Taiwan Chinese term for forced-feeding pedagogy — i.e. cramming knowledge into students without digestion.*
 
@@ -38,7 +38,7 @@ During the British colonial period, Hong Kong was given an education system that
 
 > *Translator's note: The "priority seat" (關愛座) controversy is a recurring flashpoint in Hong Kong public transport — passengers argue over who deserves the seat, footage often goes viral. The candidate uses this as a concrete example of how "love" (愛心) without judgment becomes a vehicle for self-righteousness and conflict.*
 
-2. **"Rules" upgraded to "Principles"**: It has been a long time since anyone talked about having principles in life. All we see is either rule-following or demanding freedom, with no flexibility at all. Rote-learning education has turned Hong Kong into a place that goes by the book, disregarding consequences and disregarding purpose, simply following rules for the sake of following them. There is even a low-grade culture that treats "following rules" as equivalent to "having principles".
+2. **"Rules" upgraded to "Principles"**: It has been a long time since anyone talked about having principles in life. All we see is either rule-following or demanding freedom, with no flexibility at all. Teaching-to-the-test education has turned Hong Kong into a place that goes by the book, disregarding consequences and disregarding purpose, simply following rules for the sake of following them. There is even a low-grade culture that treats "following rules" as equivalent to "having principles".
 
 3. **"Knowledge" upgraded to "Wisdom"**: Everyone has heard the phrase "high score, low ability" (高分低能) — it describes someone who has "knowledge" but no "wisdom". How to lift knowledge up to wisdom: this is what I will focus on this term. In this area, I can say: no one else will do.
 
@@ -70,7 +70,7 @@ I will start with 1+1=1+1, to re-teach everyone to recognise facts, and to add i
 
 From my experience in the previous election, Hong Kong people and the media only look at my first manifesto, and afterwards pay less and less attention. So please read through this entire manifesto this time — after reading, you will know exactly how Hong Kong people can gain in wisdom.
 
-> *Translator's note: Shing-Tung Yau is the Fields Medal–winning Chinese-American mathematician. The candidate uses him as an example of how even world-class mathematical talent, if reduced to "teaching knowledge" without wisdom, still produces the same rote-learning outcomes.*
+> *Translator's note: Shing-Tung Yau is the Fields Medal–winning Chinese-American mathematician. The candidate uses him as an example of how even world-class mathematical talent, if reduced to "teaching knowledge" without wisdom, still produces the same teaching-to-the-test outcomes.*
 
 ---
 
@@ -98,7 +98,7 @@ Earlier I mentioned that some people had a problem with me using an old manifest
 
 Man proposes, Heaven disposes (謀事在人，成事在天). This time my campaign slogan is "Use Your Brain".
 
-Why is society in turmoil and the people restless? The biggest problem is, of course, in governance. From the 1997 handover to the present, the governing class has been unqualified. The British government used rote-learning education to create a governing class with no moral requirements, no ability requirements, and a target of bootlicking. In the old days, the disciplined services had to display portraits of the so-called "Queen Boss" (事頭婆) in prominent places to please foreigners for the sake of promotion — and of course that pleased foreign superiors, while harming citizens. After the handover, this official mentality did not change: officials act merely to please their superiors, not to "use their brain" to solve problems.
+Why is society in turmoil and the people restless? The biggest problem is, of course, in governance. From the 1997 handover to the present, the governing class has been unqualified. The British government used teaching-to-the-test education to create a governing class with no moral requirements, no ability requirements, and a target of bootlicking. In the old days, the disciplined services had to display portraits of the so-called "Queen Boss" (事頭婆) in prominent places to please foreigners for the sake of promotion — and of course that pleased foreign superiors, while harming citizens. After the handover, this official mentality did not change: officials act merely to please their superiors, not to "use their brain" to solve problems.
 
 > *Translator's note: 「事頭婆」 is a colloquial Cantonese nickname for Queen Elizabeth II, used both affectionately and irreverently. The portrait-display practice refers to the British colonial requirement that government offices display the Queen's portrait.*
 
@@ -138,7 +138,7 @@ I will also add a new element to this manifesto this time. Beyond the previous m
 
 1. Chinese language: Use the Six-Principles-of-character-formation (六書 — the traditional Chinese philological classification of characters into pictographic, indicative, compound-ideographic, phonetic-compound, derivative, and borrowed) as the guiding principle of Chinese education. Reduce translations of foreign words that have no Chinese meaning. Hope to reduce the worship-of-foreign mentality, and learn to use Chinese to understand things.
 
-2. Rote-learning education: Redefine the purpose of education. Promote science and mathematics. Merge the Space Museum, Science Museum, Hong Kong Observatory, and other scientific resources into a unified way to provide scientific information to citizens.
+2. Teaching-to-the-test education: Redefine the purpose of education. Promote science and mathematics. Merge the Space Museum, Science Museum, Hong Kong Observatory, and other scientific resources into a unified way to provide scientific information to citizens.
 
 3. Cost: Review the fact that Hong Kong's education spending is among the highest in the world.
 
