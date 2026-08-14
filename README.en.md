@@ -26,6 +26,7 @@ Documents are available in:
 - **Campaign Announcement Script**: [English](STATEMENTS/announcement-video-script.en.md) | [正體中文](STATEMENTS/announcement-video-script.md) | [简体中文](STATEMENTS/announcement-video-script.sc.md)
 - **Facebook (Personal)**: https://www.facebook.com/profile.php?id=100012905504787
 - **Facebook Campaign Group**: https://www.facebook.com/groups/1266224774451573
+- **Email / Microsoft Teams**: siutakleung@outlook.com
 
 ## Author
 

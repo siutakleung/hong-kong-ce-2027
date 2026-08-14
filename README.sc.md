@@ -26,6 +26,7 @@
 - **参选宣言文字稿**: [简体中文](STATEMENTS/announcement-video-script.sc.md) | [正體中文](STATEMENTS/announcement-video-script.md) | [English](STATEMENTS/announcement-video-script.en.md)
 - **Facebook（个人）**: https://www.facebook.com/profile.php?id=100012905504787
 - **Facebook 选举群组**: https://www.facebook.com/groups/1266224774451573
+- **Email / Microsoft Teams**: siutakleung@outlook.com
 
 ## 作者
 
