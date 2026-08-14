@@ -22,7 +22,8 @@ Documents are available in:
 
 ## Links
 
-- **Campaign Announcement Video**: https://youtu.be/G32C_RxGQlQ ([Script](STATEMENTS/announcement-video-script.md))
+- **Campaign Announcement Video**: https://youtu.be/G32C_RxGQlQ
+- **Campaign Announcement Script**: [STATEMENTS/announcement-video-script.md](STATEMENTS/announcement-video-script.md)
 - **Facebook (Personal)**: https://www.facebook.com/profile.php?id=100012905504787
 - **Facebook Campaign Group**: https://www.facebook.com/groups/1266224774451573
 
