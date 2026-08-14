@@ -1,35 +1,35 @@
-# Hong Kong CE 2027
+# 香港特首選舉 2027
 
-**Hong Kong Special Administrative Region Chief Executive Election 2027**
+**香港特別行政區行政長官選舉 2027**
 
-[正體中文](README.zh.md) | [English](README.md) | [简体中文](README.sc.md)
+[正體中文](README.md) | [English](README.en.md) | [简体中文](README.sc.md)
 
-## Overview
+## 簡介
 
-This repository contains campaign platform materials, policy documents, and public statements for the 2027 Hong Kong Chief Executive Election.
+此儲存庫包含 2027 年香港行政長官選舉的參選政綱、政策文件及公開聲明。
 
-## Contents
+## 內容
 
-- `PLATFORM.md` — Campaign platform and policy positions
-- `STATEMENTS/` — Public statements and declarations
-- `POLICY/` — Detailed policy documents
+- `PLATFORM.md` — 參選政綱及政策立場
+- `STATEMENTS/` — 公開聲明及宣言
+- `POLICY/` — 詳細政策文件
 
-## Language
+## 語言
 
-Documents are available in:
-- English (`*.md`)
-- Traditional Chinese (`*.zh.md`)
+文件提供以下版本：
+- 英文（`*.md`）
+- 正體中文（`*.zh.md`）
 
-## Links
+## 連結
 
-- **Campaign Announcement Video**: https://youtu.be/G32C_RxGQlQ
-- **Facebook (Personal)**: https://www.facebook.com/profile.php?id=100012905504787
-- **Facebook Campaign Group**: https://www.facebook.com/groups/1266224774451573
+- **參選宣言影片**: https://youtu.be/G32C_RxGQlQ
+- **Facebook（個人）**: https://www.facebook.com/profile.php?id=100012905504787
+- **Facebook 選舉群組**: https://www.facebook.com/groups/1266224774451573
 
-## Author
+## 作者
 
-**SIU Tak-Leung** (蕭德良)
+**蕭德良**（SIU Tak-Leung）
 
 ---
 
-*This is a personal political campaign repository. All views expressed are those of the candidate.*
+*此為個人政治參選儲存庫。所有觀點均為參選人本人立場。*
