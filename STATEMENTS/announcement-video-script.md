@@ -2,6 +2,8 @@
 
 **Hong Kong Chief Executive Election 2027 — Campaign Announcement Script**
 
+> **影片 Video**: https://youtu.be/G32C_RxGQlQ
+
 ---
 
 大家好，我係蕭德良，我喺度宣佈，我參加香港特別行政區行政長官選舉2027。
