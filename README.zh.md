@@ -2,7 +2,7 @@
 
 **香港特別行政區行政長官選舉 2027**
 
-[English](README.md) | [正體中文](README.zh.md) | [简体中文](README.sc.md)
+[正體中文](README.zh.md) | [English](README.md) | [简体中文](README.sc.md)
 
 ## 簡介
 
