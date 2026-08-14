@@ -23,7 +23,7 @@
 ## 連結
 
 - **參選宣言影片**: https://youtu.be/G32C_RxGQlQ
-- **參選宣言文字稿**: [STATEMENTS/announcement-video-script.md](STATEMENTS/announcement-video-script.md)
+- **參選宣言文字稿**: [STATEMENTS/announcement-video-script.md](STATEMENTS/announcement-video-script.md) | [English](STATEMENTS/announcement-video-script.en.md) | [简体中文](STATEMENTS/announcement-video-script.sc.md)
 - **Facebook（個人）**: https://www.facebook.com/profile.php?id=100012905504787
 - **Facebook 選舉群組**: https://www.facebook.com/groups/1266224774451573
 
