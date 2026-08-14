@@ -20,7 +20,7 @@ Documents are available in:
 
 ## Author
 
-**Tak Leung Siu** (蕭德龍)
+**SIU Tak-Leung** (蕭德良)
 
 ---
 
