@@ -22,7 +22,7 @@
 
 ## 链接
 
-- **参选宣言影片**: https://youtu.be/G32C_RxGQlQ
+- **参选宣言影片**: https://youtu.be/G32C_RxGQlQ（[文字稿](STATEMENTS/announcement-video-script.md)）
 - **Facebook（个人）**: https://www.facebook.com/profile.php?id=100012905504787
 - **Facebook 选举群组**: https://www.facebook.com/groups/1266224774451573
 
