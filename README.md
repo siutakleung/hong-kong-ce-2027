@@ -2,6 +2,8 @@
 
 **Hong Kong Special Administrative Region Chief Executive Election 2027**
 
+[English](README.md) | [正體中文](README.zh.md) | [简体中文](README.sc.md)
+
 ## Overview
 
 This repository contains campaign platform materials, policy documents, and public statements for the 2027 Hong Kong Chief Executive Election.
@@ -21,8 +23,8 @@ Documents are available in:
 ## Links
 
 - **Campaign Announcement Video**: https://youtu.be/G32C_RxGQlQ
-- **Facebook (個人)**: https://www.facebook.com/profile.php?id=100012905504787
-- **Facebook 選舉群組**: https://www.facebook.com/groups/1266224774451573
+- **Facebook (Personal)**: https://www.facebook.com/profile.php?id=100012905504787
+- **Facebook Campaign Group**: https://www.facebook.com/groups/1266224774451573
 
 ## Author
 
