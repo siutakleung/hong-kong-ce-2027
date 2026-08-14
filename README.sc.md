@@ -34,3 +34,4 @@
 ---
 
 *此为个人政治参选仓库。所有观点均为参选人本人立场。*
+*欢迎开设 Issue 讨论，但不接受 Pull Requests。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。*

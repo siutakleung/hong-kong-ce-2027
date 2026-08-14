@@ -34,3 +34,4 @@ Documents are available in:
 ---
 
 *This is a personal political campaign repository. All views expressed are those of the candidate.*
+*Issues are welcome for discussion. Pull requests are not accepted. See [CONTRIBUTING.md](CONTRIBUTING.md).*

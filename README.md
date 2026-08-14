@@ -34,3 +34,4 @@
 ---
 
 *此為個人政治參選儲存庫。所有觀點均為參選人本人立場。*
+*歡迎開設 Issue 討論，但不接受 Pull Requests。詳見 [CONTRIBUTING.md](CONTRIBUTING.md)。*
